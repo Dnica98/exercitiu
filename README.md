@@ -1,1 +1,1 @@
-# exercitiu
+# exercitiu lectia 2
